@@ -22,5 +22,3 @@
 &nbsp&nbsp&nbsp<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
  
- ##
- 
