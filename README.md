@@ -1,4 +1,4 @@
-<h1 align="center">♠ Olá! Eu sou o Pablo Quiroga ♠</h1>
+<h1 align="center">♠ quiroga.js ♠</h1>
 
 
 
