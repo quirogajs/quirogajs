@@ -21,5 +21,6 @@
 &nbsp&nbsp&nbsp<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 &nbsp&nbsp&nbsp<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 &nbsp&nbsp&nbsp<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+&nbsp&nbsp&nbsp<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
  
