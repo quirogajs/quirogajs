@@ -2,7 +2,7 @@
 
 
 
-- 📚 Aluno de Análise e Desenvolvimento de Sistemas na UNA
+- 📚 Aluno de Análise e Desenvolvimento de Sistemas na UniRitter
 - 💻 Utilizo a plataforma Alura como reforço de aprendizado
 - 💡 Conhecimento básico de HTML, CSS e JavaScript
 - 🎯 O meu objetivo é ser desenvolvedor Full Stack com a linguagem JavaScript e suas principais bibliotecas 
